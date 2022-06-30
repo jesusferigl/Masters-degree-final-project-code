@@ -4,7 +4,7 @@ Este repositorio contiene el código desarrollado en el marco de la realización
 
 <br /> 
 
-Los experimentos realizado se pueden encontrar en los siguientes enlaces:
+Los experimentos realizados se pueden encontrar en los siguientes enlaces:
 
 <br /> 
 
