@@ -12,8 +12,8 @@ Este repositorio contiene el código desarrollado en el marco de la realización
 - [ResNet34-Visual](Models/U-Net/mvw_2depth_resnet_34_visual.py )
 - [ResNet50-Base](Models/U-Net/mvw_2depth_resnet_50_base.py )
 - [ResNet50-Visual](Models/U-Net/mvw_2depth_resnet_50_visual.py )
-- [EfficientNetB1-Base](Models/U-Net/mvw_2depth_eff_b1_base.py .py )
-- [EfficientNetB1-Visual](Models/U-Net/mvw_2depth_eff_b1_visual.py .py )
+- [EfficientNetB1-Base](Models/U-Net/mvw_2depth_eff_b1_base.py )
+- [EfficientNetB1-Visual](Models/U-Net/mvw_2depth_eff_b1_visual.py )
 
 <br /> 
 
