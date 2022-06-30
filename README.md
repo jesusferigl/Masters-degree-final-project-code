@@ -7,6 +7,11 @@ Este repositorio contiene el código desarrollado en el marco de la realización
 [U-Net](Models/U-Net)
 
 - [ResNet18-Base](Models/U-Net/mvw_2depth_resnet_18_base.py )
+- [ResNet18-Visual](Models/U-Net/mvw_2depth_resnet_18_visual.py )
+- [ResNet34-Base](Models/U-Net/mvw_2depth_resnet_34_base.py )
+- [ResNet34-Visual](Models/U-Net/mvw_2depth_resnet_34_visual.py )
+- [ResNet50-Base](Models/U-Net/mvw_2depth_resnet_18_base.py )
+- [ResNet50-Visual](Models/U-Net/mvw_2depth_resnet_18_visual.py )
 
 <br /> 
 
