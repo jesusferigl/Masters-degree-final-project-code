@@ -30,6 +30,10 @@ Este repositorio contiene el código desarrollado en el marco de la realización
 - [DenseNet161-Visual](Models/U-Net/mvw_2depth_densenet_161_visual.py )
 - [DenseNet201-Base](Models/U-Net/mvw_2depth_densenet_201_base.py )
 - [DenseNet201-Visual](Models/U-Net/mvw_2depth_densenet_201_visual.py )
+- [DPN68-Base](Models/U-Net/mvw_2depth_dpn_68_base.py )
+- [DPN68-Visual](Models/U-Net/mvw_2depth_dpn_68_visual.py )
+- [DPN98-Base](Models/U-Net/mvw_2depth_dpn_98_base.py )
+- [DPN98-Visual](Models/U-Net/mvw_2depth_dpn_98_visual.py )
 <br /> 
 
 [U-Net++](Models/U-Net++)
