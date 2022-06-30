@@ -4,7 +4,7 @@ Este repositorio contiene el código desarrollado en el marco de la realización
 
 <br /> 
 
-El código ha sido desarrollado en [PyTorch][https://pytorch.org/], desde su API de Python.
+El código ha sido desarrollado en [PyTorch](https://pytorch.org/), desde su API de Python.
 
 <br /> 
 
