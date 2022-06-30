@@ -1,1 +1,1 @@
-# Master-s-degree-final-project-code
+# Masters-degree-final-project-code
