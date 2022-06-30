@@ -6,6 +6,8 @@ Este repositorio contiene el código desarrollado en el marco de la realización
 
 [U-Net](Models/U-Net)
 
+- [ResNet18-Base](Models/U-Net/mvw_2depth_resnet_18_base.py )
+
 <br /> 
 
 [U-Net++](Models/U-Net++)
