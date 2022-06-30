@@ -4,6 +4,10 @@ Este repositorio contiene el código desarrollado en el marco de la realización
 
 <br /> 
 
+Los experimentos realizado se pueden encontrar en los siguientes enlaces:
+
+<br /> 
+
 - [U-Net](Models/U-Net)
 
   - [ResNet18-Base](Models/U-Net/mvw_2depth_resnet_18_base.py )
