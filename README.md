@@ -24,7 +24,12 @@ Este repositorio contiene el código desarrollado en el marco de la realización
 - [EfficientNetB5-Visual](Models/U-Net/mvw_2depth_eff_b5_visual.py )
 - [EfficientNetB6-Base](Models/U-Net/mvw_2depth_eff_b6_base.py )
 - [EfficientNetB6-Visual](Models/U-Net/mvw_2depth_eff_b6_visual.py )
-
+- [DenseNet121-Base](Models/U-Net/mvw_2depth_densenet_121_base.py )
+- [DenseNet121-Visual](Models/U-Net/mvw_2depth_densenet_121_visual.py )
+- [DenseNet161-Base](Models/U-Net/mvw_2depth_densenet_161_base.py )
+- [DenseNet161-Visual](Models/U-Net/mvw_2depth_densenet_161_visual.py )
+- [DenseNet201-Base](Models/U-Net/mvw_2depth_densenet_201_base.py )
+- [DenseNet201-Visual](Models/U-Net/mvw_2depth_densenet_201_visual.py )
 <br /> 
 
 [U-Net++](Models/U-Net++)
